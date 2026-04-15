@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-coffee-50: #fdf8f6;
+  --color-coffee-100: #f2e8e5;
+  --color-coffee-200: #eaddd7;
+  --color-coffee-300: #e0cec7;
+  --color-coffee-400: #d2bab0;
+  --color-coffee-500: #a38068;
+  --color-coffee-600: #8c6b5d;
+  --color-coffee-700: #75564c;
+  --color-coffee-800: #5c433b;
+  --color-coffee-900: #402e29;
+  --color-coffee-950: #2a1e1a;
+}
+@utility glass-card {
+  @apply bg-white/70 dark:bg-gray-900/40 backdrop-blur-xl border border-white/20 dark:border-gray-800/50 shadow-2xl;
+}
+
+@utility premium-gradient {
+  @apply bg-gradient-to-br from-coffee-800 to-coffee-950;
+}
+
+.coffee-glow {
+  box-shadow: 0 0 20px rgba(140, 107, 93, 0.2);
+}
+
+/* Custom Scrollbar for a cleaner look */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-coffee-300 dark:bg-gray-800 rounded-full;
+}
