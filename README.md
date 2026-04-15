@@ -10,7 +10,7 @@
 ---
 
 ## 📸 System Visuals
-
+<img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/c2c61773-85c6-4dd6-a8be-1d940403768e" />
 <img width="1917" height="1079" alt="Screenshot 2026-04-16 042538" src="https://github.com/user-attachments/assets/d886a434-2338-40bd-8fb9-410daa032f28" />
 <img width="1919" height="950" alt="Screenshot 2026-04-16 042521" src="https://github.com/user-attachments/assets/fc1e95c1-fea7-4243-8072-f612b9a1f9a6" />
 <img width="1919" height="1079" alt="Screenshot 2026-04-16 043638" src="https://github.com/user-attachments/assets/3c08712a-46b9-4b21-9770-91b0328fc718" />
