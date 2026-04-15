@@ -45,7 +45,7 @@
 ## 🛠️ Technology Stack
 
 - **Frontend**: React 19, Vite, Tailwind CSS v4, Framer Motion, Recharts.
-- **Backend**: Spring Boot 3, Spring Security (JWT), Spring Data JPA.
+- **Backend**: Spring Boot 4, Spring Security (JWT), Spring Data JPA.
 - **Database**: MySQL.
 - **Comm Protocol**: WebSockets (STOMP/SockJS) for real-time Kitchen Display (KDS) sync.
 
@@ -54,7 +54,7 @@
 ## ⚙️ Installation & Setup
 
 ### 1. Prerequisites
-- Java 17+
+- Java 21+
 - Node.js 20+
 - MySQL Server
 
@@ -68,7 +68,7 @@ mvn spring-boot:run
 
 ### 3. Frontend Setup
 ```bash
-git clone https://github.com/tapan2004/cafeflow-pos-frontend.git
+git clone https://github.com/tapan2004/smart-cafe-management-system-frontend.git
 cd CafeManagementSystemFrontend
 npm install
 npm run dev
