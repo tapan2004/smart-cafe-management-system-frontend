@@ -10,18 +10,18 @@
 ---
 
 ## 📸 System Visuals
-
-### 💎 Premium Operational Console (POS)
-The heart of the system. Featuring glassmorphism, cinematic transitions, and real-time cart logic.
-![POS Dashboard](file:///C:/Users/Tapan%20Manna/.gemini/antigravity/brain/f978f8f2-eaa5-4cad-b036-2c778f944a4d/media__1776278854693.png)
-
-### 🛡️ Immutable Audit Trail
-Real-time forensic logging of every critical system action for maximum security.
-![Audit Trail](file:///C:/Users/Tapan%20Manna/.gemini/antigravity/brain/f978f8f2-eaa5-4cad-b036-2c778f944a4d/media__1776277658331.png)
-
-### 🧠 Neural Concierge (AI)
-The integrated AI chatbot providing deep tactical insights on sales and inventory.
-![Personnel Details](file:///C:/Users/Tapan%20Manna/.gemini/antigravity/brain/f978f8f2-eaa5-4cad-b036-2c778f944a4d/media__1776278322832.png)
+<img width="1919" height="1079" alt="Screenshot 2026-04-16 043638" src="https://github.com/user-attachments/assets/3c08712a-46b9-4b21-9770-91b0328fc718" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-16 042624" src="https://github.com/user-attachments/assets/a617de51-2763-429a-8e82-fe9d5535067d" />
+<img width="1917" height="1079" alt="Screenshot 2026-04-16 042538" src="https://github.com/user-attachments/assets/d886a434-2338-40bd-8fb9-410daa032f28" />
+<img width="1919" height="950" alt="Screenshot 2026-04-16 042521" src="https://github.com/user-attachments/assets/fc1e95c1-fea7-4243-8072-f612b9a1f9a6" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-16 043649" src="https://github.com/user-attachments/assets/986dd3f4-c8d8-4444-b9a0-37c928d5021c" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-16 044318" src="https://github.com/user-attachments/assets/a6304085-2e25-4abe-b0c8-4da2d5361564" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-16 044117" src="https://github.com/user-attachments/assets/e763064d-dc44-45c3-a6d8-91e2c65031d2" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-16 044106" src="https://github.com/user-attachments/assets/de1cb6bd-5de8-4720-afbd-b574e80e4cde" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-16 044051" src="https://github.com/user-attachments/assets/e0027de3-83a0-482e-803f-5357f42a4bdd" />
+<img width="1912" height="960" alt="Screenshot 2026-04-16 043853" src="https://github.com/user-attachments/assets/3f9d56d0-e7a3-4118-bc93-a9aa2c9809a8" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-16 043703" src="https://github.com/user-attachments/assets/75fb8e3c-7374-441f-9a86-8c21e38afcd6" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-16 043649" src="https://github.com/user-attachments/assets/a79b157b-a343-4f61-8633-048a136c9101" />
 
 ---
 
