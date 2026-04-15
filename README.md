@@ -89,5 +89,3 @@ npm run dev
 - Engineering: Full-Stack (Spring Boot & React)
 
 ---
-
-> _"Building the future of hospitality, one node at a time."_
