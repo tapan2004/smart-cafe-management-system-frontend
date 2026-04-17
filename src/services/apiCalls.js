@@ -25,6 +25,7 @@ export const userService = {
 export const billService = {
   getAll: () => api.get('/bill/getBills'),
   generateReport: (data) => api.post('/bill/generateReport', data),
+  placePublicOrder: (data) => api.post('/bill/public/placeOrder', data),
   getPdf: (uuid) => api.get(`/bill/getPdf/${uuid}`, { responseType: 'blob' }),
   delete: (id) => api.delete(`/bill/delete/${id}`),
 };

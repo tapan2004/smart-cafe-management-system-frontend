@@ -25,8 +25,8 @@ api.interceptors.response.use(
   (error) => {
     if (error.response?.status === 401 || error.response?.status === 403) {
       localStorage.removeItem('token');
-      // Only redirect if we are not already on the login page to avoid infinite loops
-      if (!window.location.pathname.includes('/login')) {
+      // Only redirect if we are not already on the login or public order page
+      if (!['/login', '/order'].some(path => window.location.pathname.includes(path))) {
         window.location.href = '/login';
       }
     }

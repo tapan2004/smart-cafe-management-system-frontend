@@ -18,12 +18,14 @@ const PrivateRoute = ({ children }) => {
   }
   return children;
 };
+import GuestOrder from './pages/GuestOrder';
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
         <Route path="/login" element={<Login />} />
+        <Route path="/order" element={<GuestOrder />} />
         
         {/* Protected Routes */}
         <Route 
